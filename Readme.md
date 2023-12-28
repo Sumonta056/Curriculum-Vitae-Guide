@@ -8,6 +8,38 @@
 </div>
 <hr>
 
+## 🌱 CV Writing Tips
+- No Need Summary and Objectives
+- Must be 1 Page
+- Font Size Matters
+- Most important thing and first thing to be notices should be your projects
+- Project >> Skills (Showcase skills in projects rather than another section on skills section)
+- Top Priority : Project - Achivements
+- Add : Github and Live Demo Link in Projects.
+- Write Project points in bullet points
+- Write the challenging points of your project
+- LinkedIn Link - GitHub Link Must
+- No need to write Hobby and Interests
+
+<hr>
+<div align ="center">
+
+<h2> 🌱 Example of A Quality CV : Experience, Projects</h2>
+
+![Alt text](./Assets/imag1.png)
+
+![Alt text](./Assets/2.png)
+
+![Alt text](./Assets/3.png)
+
+
+![Alt text](./Assets/4.png)
+
+
+</div>
+<hr>
+
+
 ## 🌱 Resource
 
 #### 💫 Template - 1 : ([👉 Click Here ](https://www.latextemplates.com/template/freeman-cv)) ([👉 Overleaf Link ](https://www.overleaf.com/project/6588fc1c96a768adfde56b19))
