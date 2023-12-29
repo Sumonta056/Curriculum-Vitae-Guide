@@ -50,3 +50,18 @@
 </div>
 
 <hr>
+
+
+<div align ="center">
+<h2> 🌱 Skill Showcase and Animation </h2>
+
+##### 🔗 [( Demo Link )](https://youtu.be/hYv6BM2fWd8?si=K8KD4x_OOHK_D0eo) [( GitHub Link )](https://github.com/judygab/web-dev-projects/tree/main/personal-portfolio)
+
+![Alt text](image-8.png)
+![Alt text](image-9.png)
+
+</div>
+
+<hr>
+
+
