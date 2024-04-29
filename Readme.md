@@ -51,6 +51,8 @@
 
 ## 🌱 Resource
 
+#### 💫 Latex CV Templates : ([👉 Click Here ](https://www.overleaf.com/gallery/tagged/cv/page/1)) 
+
 #### 💫 Template - 1 : ([👉 Click Here ](https://www.latextemplates.com/template/freeman-cv)) ([👉 Overleaf Link ](https://www.overleaf.com/project/6588fc1c96a768adfde56b19))
 
 ![Alt text](./Assets/image-1.png)
