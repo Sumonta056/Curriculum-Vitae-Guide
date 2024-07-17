@@ -2,9 +2,9 @@
 
 ## 🙄🗝️ Curriculum Vitae 🗝️🙄
 
-#### 🌱 ( My CV [ : 👉 Click Here]() )
+#### 🌱 ( My CV [ : 👉 Click Here](./Sumonta_CV.pdf) )
 
-##### ( [😾 My Portfolio](https://sumonta056.github.io/index.html) )
+##### ( [😾 My Portfolio](https://sumonta-portfolio.vercel.app/l) )
 
 ![Alt text](./Assets/image.png)
 
